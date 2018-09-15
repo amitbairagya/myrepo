@@ -8,8 +8,14 @@
     { "id": 1, "body": "body 1", "postId": 1 },
     { "id": 2, "body": "body 2", "postId": 1 }
   ],
-  "profile": {
+  "profile": [
+    {
     "id": 1,
     "name": "Amit Bairagya"
+  },
+    {
+    "id": 2,
+    "name": "Keya Bairagya"
   }
+]         
 }
