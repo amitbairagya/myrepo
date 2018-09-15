@@ -9,6 +9,7 @@
     { "id": 2, "body": "body 2", "postId": 1 }
   ],
   "profile": {
+    "id": 1,
     "name": "Amit Bairagya"
   }
 }
